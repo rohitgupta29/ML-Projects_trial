@@ -1,1 +1,10 @@
+About K-means 
+
+Advantages- 
+1. K-means is simple and computationally efficient.
+2. It is very intuitive and their results are easy to visualize.
+
+Disadvantages- 
+1.K-means is highly scale dependent and is not suitable for data of varying shapes and densities.
+2. Evaluating results is more subjective. It requires much more human evaluation than trusted metrics.
 
